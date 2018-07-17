@@ -1,0 +1,20 @@
+[33mcommit 225f6175fab2560924e2ea1a405ba47681d82ebd[m
+Merge: 81f6383 d6cc4a9
+Author: smigence <40822288+smigence@users.noreply.github.com>
+Date:   Wed Jul 18 01:38:55 2018 +0700
+
+    Merge pull request #1 from smigence/init_project
+    
+    init_project
+
+[33mcommit d6cc4a99691065a1c680304136ff8011f5c4f8b2[m
+Author: BinhLT <thanhbinhltbbn@gmail.com>
+Date:   Wed Jul 18 01:36:09 2018 +0700
+
+    init_project
+
+[33mcommit 81f63833b7e0d4638f2a70fbba53e1137101e742[m
+Author: smigence <40822288+smigence@users.noreply.github.com>
+Date:   Wed Jul 18 01:08:21 2018 +0700
+
+    Initial commit
